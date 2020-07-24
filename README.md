@@ -1,3 +1,5 @@
+Software Developer | Medical Informatics Scientist | Machine Learning Engineer | Researcher | Author | Artist | Philanthropist
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
