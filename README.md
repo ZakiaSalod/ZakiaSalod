@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there 👋 <br>
 I'm :
 Software Developer | Medical Informatics Scientist | Machine Learning Engineer | Researcher | Author | Artist | Philanthropist
 
