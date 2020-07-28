@@ -1,6 +1,7 @@
-Software Developer | Medical Informatics Scientist | Machine Learning Engineer | Researcher | Author | Artist | Philanthropist
 
 ### Hi there 👋
+I'm :
+Software Developer | Medical Informatics Scientist | Machine Learning Engineer | Researcher | Author | Artist | Philanthropist
 
 <!--
 **ZakiaSalod/ZakiaSalod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
