@@ -1,7 +1,7 @@
 
 ### Hi there 👋 <br>
 I'm :
-Software Developer | Medical Informatics Scientist | Data Scientist | Researcher | Author | Artist | Philanthropist | South African | Pronouns: She/Her
+Software Developer | Medical Informatics Scientist | Data Scientist | Researcher | Author | Artist | Philanthropist | South African | Pronouns: She/Her | 
 
 
 "Indeed, my prayers, my sacrifice, my life and my death are all for The Almighty Allah, the Lord of the Worlds." ~ (Quraan 6:162)
